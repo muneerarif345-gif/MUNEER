@@ -1,0 +1,19 @@
+* {
+    margin: 5%;
+    padding: 0%;
+    background-color: bisque;
+}
+h1 {
+    text-align: center;
+
+}
+p {
+        text-align: center;
+
+
+}
+ul {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
